@@ -13,3 +13,6 @@ Questions and Answers:
 4. What are the benefits of Spark over MapReduce?
 5. What is Spark Executor?
 File: Assignment 12.2.pdf
+---------------------------------------------------------------------------------------------------------------------
+Assignment 12.3
+Import AcadGild VM into Virtual box and start all the Spark daemons and take the screen shot.
